@@ -26,7 +26,7 @@ public class NdfdXMLBindingStubTest {
 
         String latlon = unmarshalResult(response);
 
-        assertEquals("???", latlon);
+        assertEquals("43.0798,-89.3875", latlon);
 
     }
 
