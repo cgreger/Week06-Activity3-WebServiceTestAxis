@@ -1,0 +1,12 @@
+gov/weather/FeatureTypeType.class
+gov/weather/CompTypeType.class
+gov/weather/NdfdXMLPortType.class
+gov/weather/WeatherParametersType.class
+gov/weather/UnitType.class
+gov/weather/NdfdXMLBindingStub.class
+gov/weather/NdfdXML.class
+gov/weather/DisplayLevelType.class
+gov/weather/ProductType.class
+gov/weather/FormatType.class
+gov/weather/SectorType.class
+gov/weather/NdfdXMLLocator.class
