@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="210653c0-fc53-44c2-a601-2565fb914d39" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/gov/weather/DwmlType.java" afterPath="$PROJECT_DIR$/src/main/java/gov/weather/DwmlType.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/gov/weather/NdfdXMLBindingStubTest.java" afterPath="$PROJECT_DIR$/src/test/java/gov/weather/NdfdXMLBindingStubTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,8 +39,8 @@
       <file leaf-file-name="NdfdXMLBindingStubTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/gov/weather/NdfdXMLBindingStubTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+            <state relative-caret-position="602">
+              <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -72,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/gov/weather/DwmlType.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="434">
-              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+              <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -749,7 +747,7 @@
       <updated>1488252786225</updated>
       <workItem from="1488252787446" duration="1069000" />
       <workItem from="1488253995822" duration="333000" />
-      <workItem from="1488254644289" duration="2870000" />
+      <workItem from="1488254644289" duration="2901000" />
     </task>
     <servers />
   </component>
@@ -759,7 +757,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4272000" />
+    <option name="totallyTimeSpent" value="4303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="52" width="960" height="983" extended-state="4" />
@@ -889,15 +887,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/gov/weather/DwmlType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/gov/weather/NdfdXMLBindingStubTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="47" column="32" lean-forward="false" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+        <state relative-caret-position="602">
+          <caret line="51" column="20" lean-forward="false" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
           <folding />
         </state>
       </provider>
